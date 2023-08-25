@@ -1,5 +1,7 @@
-#include <stdio.h>
-#include <stdlib.h>
 #include "monty.h"
 
-void    push(int var, )
+void    push(stack_t **stack, unsigned int line_number)
+{
+    stack_t *new;
+    
+}
